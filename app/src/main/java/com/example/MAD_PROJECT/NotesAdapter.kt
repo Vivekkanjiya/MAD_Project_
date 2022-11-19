@@ -1,13 +1,12 @@
-package com.example.madpractical11_20012011055
+package com.example.MAD_PROJECT
 
 import android.content.Context
 import android.content.Intent
-import android.os.Parcelable
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.madpractical11_20012011055.databinding.NoteItemViewBinding
+import com.example.MAD_PROJECT.databinding.NoteItemViewBinding
 
 import java.io.Serializable
 

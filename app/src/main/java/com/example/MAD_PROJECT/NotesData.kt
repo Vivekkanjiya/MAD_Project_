@@ -1,4 +1,4 @@
-package com.example.madpractical11_20012011055
+package com.example.MAD_PROJECT
 
 class NotesData {
     companion object{
@@ -12,7 +12,6 @@ class NotesData {
         const val COLUMN_NOTE_REMINDER_TIME = "note_set_reminder_time"
         const val COLUMN_TIMESTAMP = "note_modified_timestamp"
 
-        // Create table SQL query
         val CREATE_TABLE = ("CREATE TABLE " + TABLE_NAME + "("
                 + COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT,"
                 + COLUMN_NOTE_TITLE + " TEXT,"

@@ -1,4 +1,4 @@
-package com.example.madpractical11_20012011055
+package com.example.MAD_PROJECT
 
 import android.app.AlarmManager
 import android.app.PendingIntent
@@ -7,7 +7,7 @@ import android.content.Context.ALARM_SERVICE
 import android.content.Intent
 import android.os.Parcel
 import android.os.Parcelable
-import com.example.madpractical11_20012011055.AlarmBroadcastReceiver
+import com.example.MAD_PROJECT.AlarmBroadcastReceiver
 import java.io.Serializable
 import java.text.DateFormat
 import java.text.SimpleDateFormat

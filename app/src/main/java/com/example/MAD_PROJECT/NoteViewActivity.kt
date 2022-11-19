@@ -1,11 +1,10 @@
-package com.example.madpractical11_20012011055
+package com.example.MAD_PROJECT
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import androidx.core.view.WindowCompat
-import com.example.madpractical11_20012011055.databinding.ActivityNoteViewBinding
+import com.example.MAD_PROJECT.databinding.ActivityNoteViewBinding
 
 class NoteViewActivity : AppCompatActivity() {
     private lateinit var binding: ActivityNoteViewBinding

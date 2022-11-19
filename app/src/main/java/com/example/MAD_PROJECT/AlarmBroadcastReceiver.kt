@@ -1,4 +1,4 @@
-package com.example.madpractical11_20012011055
+package com.example.MAD_PROJECT
 
 import android.app.Notification
 import android.app.NotificationChannel

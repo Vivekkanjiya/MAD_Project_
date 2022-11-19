@@ -1,4 +1,4 @@
-package com.example.madpractical11_20012011055
+package com.example.MAD_PROJECT
 
 import android.os.Build
 import android.os.Bundle
@@ -11,8 +11,9 @@ import androidx.core.view.WindowCompat
 import androidx.recyclerview.widget.DefaultItemAnimator
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.madpractical11_20012011055.databinding.ActivityMainBinding
-import com.example.madpractical11_20012011055.databinding.NoteEditViewBinding
+import com.example.MAD_PROJECT.databinding.ActivityMainBinding
+import com.example.MAD_PROJECT.databinding.NoteEditViewBinding
+
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
